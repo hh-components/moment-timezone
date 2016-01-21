@@ -1,0 +1,11 @@
+{
+    "repos": "https://github.com/hh-components/moment-timezone",
+    "version": "0.5.0",
+    "description": "moment timezone",
+    "main": "moment-timezone.js",
+    "dependencies": {
+        "moment": "~2.8"
+    },
+    "umd2commonjs": true,
+    "name": "moment-timezone"
+}
